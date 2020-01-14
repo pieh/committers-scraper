@@ -1,0 +1,10 @@
+{
+  "name": "committers-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^16.36.0",
+    "glob": "^7.1.6"
+  }
+}
