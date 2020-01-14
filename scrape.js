@@ -28,7 +28,6 @@ const promises = pkgs.map(package => {
     "m-allanson",
     "blainekasten",
     "renovate[bot]",
-    "pjeziorowski",
     "sidharthachatterjee"
   ];
   const foundAuthors = [];
